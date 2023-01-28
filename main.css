@@ -308,8 +308,8 @@ body {
 }
 
 h3 {
-  position: absolute;
-  left: 16vw;
+  position: relative;
+  text-align: center;
 }
 
 .column {
